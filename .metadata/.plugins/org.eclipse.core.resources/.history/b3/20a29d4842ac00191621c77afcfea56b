@@ -1,0 +1,24 @@
+package point;
+
+public class PointTest2 {
+
+	public static void main(String[] args) {
+		// 1. point 배열 선언
+		Point[] points = {new Point(10, 1), 
+				          new Point(3,4), 
+				          new NamedPoint( "0", 0,0)};
+		// NamePoint는 Point에 상속 받았기 때문에 같이 사용 가능 Is ~ A 
+		
+		
+		
+		// 2. 초기화
+		
+		//3. 사용
+		
+		for (Point point :  points) {
+			System.out.println(point);
+		}
+
+	}
+
+}

@@ -1,0 +1,26 @@
+package Marker;
+/**
+ * 보드마카 테스트
+ * @author Administrator
+ *
+ */
+
+public class MarkerTest {
+
+	public static void main(String[] args) {
+		// 선언
+		Marker red
+		Marker black
+		Marker blue
+		Marker green
+		
+		//초기화
+		red = new Marker(true, true, " 적");
+		blue = new Marker (false, false "");
+		green = new Marker ()
+		
+		
+
+	}
+
+}

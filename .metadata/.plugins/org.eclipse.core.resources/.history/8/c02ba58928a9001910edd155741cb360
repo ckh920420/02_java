@@ -1,0 +1,17 @@
+package statical.method;
+/**
+ * static메소드는
+ * 클래스이름, 메소드이름(아규먼트);
+ * 의 방식으로 호출
+ * @author Administrator
+ *
+ */
+
+public class CarlcTest {
+
+	public static void main(String[] args) {
+		double  result = Calculator.add(1.0, 2.5);
+
+	}
+
+}

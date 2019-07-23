@@ -1,0 +1,5 @@
+package school;
+
+public abstract class person {
+
+}
